@@ -1,0 +1,14 @@
+title: MathLearn
+description: "A workshop for early-career researchers about applications of artificial intelligence in pure mathematics."
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
