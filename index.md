@@ -3,72 +3,134 @@ layout: default
 title: Home
 ---
 
-
-
 ## Workshop Details
 
-**Dates:** 2 -- 5 June 2026
-
-**Location:** [Áras de Brún 1020](https://maps.app.goo.gl/qK9RjKJ7adVG48M37) (ADB-1020); Number 17 on the [University of Galway Map](https://www.universityofgalway.ie/media/buildingsoffice/files/mapsrebranded2023/University-of-Galway-Campus_A4-Map.pdf).
-
-**GitHub Repo:** TBA
+<div class="details-block">
+  <p><strong>Dates:</strong> 2 – 5 June 2026</p>
+  <p><strong>Location:</strong> <a href="https://maps.app.goo.gl/qK9RjKJ7adVG48M37">Áras de Brún 1020</a> (ADB-1020) &mdash; Number 17 on the <a href="https://www.universityofgalway.ie/media/buildingsoffice/files/mapsrebranded2023/University-of-Galway-Campus_A4-Map.pdf">University of Galway Map</a>.</p>
+  <p><strong>GitHub Repo:</strong> TBA</p>
+</div>
 
 ## Schedule
 
-**Tuesday (2 June)**
+<div class="schedule-grid">
 
-19:00 -- ?? : Pizza dinner at ???
+  <div class="day-card">
+    <div class="day-header">
+      <span class="day-name">Tuesday</span>
+      <span class="day-date">2 June</span>
+    </div>
+    <ul class="event-list">
+      <li class="event-item event-social" style="height:72px">
+        <span class="event-time">19:00 – ??</span>
+        <span class="event-title">Pizza dinner at ???</span>
+      </li>
+    </ul>
+  </div>
 
+  <div class="day-card">
+    <div class="day-header">
+      <span class="day-name">Wednesday</span>
+      <span class="day-date">3 June</span>
+    </div>
+    <div class="schedule-offset" style="height:36px"><span>09:00 – 09:30</span></div>
+    <ul class="event-list">
+      <li class="event-item event-lecture" style="height:108px">
+        <span class="event-time">09:30 – 11:00</span>
+        <span class="event-title">Lecture</span>
+      </li>
+      <li class="event-item event-break" style="height:36px">
+        <span class="event-time">11:00 – 11:30</span>
+        <span class="event-title">Coffee &amp; Tea</span>
+      </li>
+      <li class="event-item event-lecture" style="height:108px">
+        <span class="event-time">11:30 – 13:00</span>
+        <span class="event-title">Lecture</span>
+      </li>
+      <li class="event-item event-lunch" style="height:72px">
+        <span class="event-time">13:00 – 14:00</span>
+        <span class="event-title">Lunch</span>
+      </li>
+      <li class="event-item event-handson" style="height:216px">
+        <span class="event-time">14:00 – 17:00</span>
+        <span class="event-title">Hands-on Session</span>
+      </li>
+    </ul>
+  </div>
 
-**Wednesday (3 June)**
+  <div class="day-card">
+    <div class="day-header">
+      <span class="day-name">Thursday</span>
+      <span class="day-date">4 June</span>
+    </div>
+    <ul class="event-list">
+      <li class="event-item event-lecture" style="height:72px">
+        <span class="event-time">09:00 – 10:00</span>
+        <span class="event-title">Lecture</span>
+      </li>
+      <li class="event-item event-lecture" style="height:72px">
+        <span class="event-time">10:00 – 11:00</span>
+        <span class="event-title">Lecture</span>
+      </li>
+      <li class="event-item event-break" style="height:36px">
+        <span class="event-time">11:00 – 11:30</span>
+        <span class="event-title">Coffee &amp; Tea</span>
+      </li>
+      <li class="event-item event-lecture" style="height:108px">
+        <span class="event-time">11:30 – 13:00</span>
+        <span class="event-title">Lecture</span>
+      </li>
+      <li class="event-item event-lunch" style="height:72px">
+        <span class="event-time">13:00 – 14:00</span>
+        <span class="event-title">Lunch</span>
+      </li>
+      <li class="event-item event-handson" style="height:216px">
+        <span class="event-time">14:00 – 17:00</span>
+        <span class="event-title">Hands-on Session</span>
+      </li>
+    </ul>
+  </div>
 
-09:30 -- 11:00 : Lecture
+  <div class="day-card">
+    <div class="day-header">
+      <span class="day-name">Friday</span>
+      <span class="day-date">5 June</span>
+    </div>
+    <ul class="event-list">
+      <li class="event-item event-lecture" style="height:72px">
+        <span class="event-time">09:00 – 10:00</span>
+        <span class="event-title">Lecture</span>
+      </li>
+      <li class="event-item event-lecture" style="height:72px">
+        <span class="event-time">10:00 – 11:00</span>
+        <span class="event-title">Lecture</span>
+      </li>
+      <li class="event-item event-break" style="height:36px">
+        <span class="event-time">11:00 – 11:30</span>
+        <span class="event-title">Coffee &amp; Tea</span>
+      </li>
+      <li class="event-item event-lecture" style="height:108px">
+        <span class="event-time">11:30 – 13:00</span>
+        <span class="event-title">Lecture</span>
+      </li>
+      <li class="event-item event-lunch" style="height:72px">
+        <span class="event-time">13:00 – 14:00</span>
+        <span class="event-title">Lunch</span>
+      </li>
+      <li class="event-item event-handson" style="height:216px">
+        <span class="event-time">14:00 – 17:00</span>
+        <span class="event-title">Hands-on Session</span>
+      </li>
+    </ul>
+  </div>
 
-11:00 -- 11:30 : Coffee & Tea Break
-
-11:30 -- 13:00 : Lecture
-
-13:00 -- 14:00 : Lunch
-
-14:00 -- 17:00 : Hands-on session
-
-
-**Thursday (4 June)**
-
-09:00 -- 10:00 : Lecture
-
-10:00 -- 11:00 : Lecture
-
-11:00 -- 11:30 : Coffee & Tea Break
-
-11:30 -- 13:00 : Lecture
-
-13:00 -- 14:00 : Lunch
-
-14:00 -- 17:00 : Hands-on session
-
-**Friday (5 June)**
-
-09:00 -- 10:00 : Lecture
-
-10:00 -- 11:00 : Lecture
-
-11:00 -- 11:30 : Coffee & Tea Break
-
-11:30 -- 13:00 : Lecture
-
-13:00 -- 14:00 : Lunch
-
-14:00 -- 17:00 : Hands-on session
-
+</div>
 
 ## Organizers
 
-[Anton Baykalov](https://anton-baykalov.github.io/)
-
-[Angela Carnevale](https://angelacarnevale.github.io/)
-
-[Joshua Maglione](https://joshmaglione.com/)
-
-[Tobias Rossmann](https://torossmann.github.io/)
-
+<ul class="organizer-list">
+  <li><a href="https://anton-baykalov.github.io/">Anton Baykalov</a></li>
+  <li><a href="https://angelacarnevale.github.io/">Angela Carnevale</a></li>
+  <li><a href="https://joshmaglione.com/">Joshua Maglione</a></li>
+  <li><a href="https://torossmann.github.io/">Tobias Rossmann</a></li>
+</ul>
