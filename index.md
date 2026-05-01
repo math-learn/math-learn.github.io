@@ -22,8 +22,8 @@ title: Home
     </div>
     <ul class="event-list">
       <li class="event-item event-social" style="height:72px">
-        <span class="event-time">19:00 – ??</span>
-        <span class="event-title">Pizza dinner at ???</span>
+        <span class="event-time">17:00 – ??</span>
+        <span class="event-title">Welcome</span>
       </li>
     </ul>
   </div>
