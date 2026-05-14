@@ -211,6 +211,14 @@ a:hover {
   font-size: 0.95rem;
 }
 
+.prep-list {
+  margin: 0;
+  padding-left: 1.75rem;
+  display: grid;
+  gap: 0.4rem;
+  font-size: 0.95rem;
+}
+
 /* ── SCHEDULE ── */
 
 .schedule-grid {
