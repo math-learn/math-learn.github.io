@@ -120,6 +120,81 @@ a:hover {
   opacity: 0.75;
 }
 
+/* ── SPONSOR LOGOS ── */
+
+.sponsor-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+  margin: 0.25rem 0 2rem;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.75rem;
+}
+
+.sponsor-logos {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+.sponsor-intro {
+  font-size: 0.95rem;
+  color: var(--text);
+  margin: 0;
+  align-self: flex-start;
+}
+
+.sponsor-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.logo-wrap {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-ims,
+.logo-ri {
+  max-height: 70px;
+  width: auto;
+  max-width: 220px;
+  display: block;
+}
+
+.sponsor-name {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--muted);
+  text-align: center;
+  white-space: nowrap;
+}
+
+.sponsor-grant {
+  font-size: 0.75rem;
+  color: var(--muted);
+  text-align: center;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .sponsor-logos {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .logo-ims { height: 55px; }
+  .logo-ri  { height: 55px; }
+}
+
 /* ── WORKSHOP DETAILS ── */
 
 .details-block {

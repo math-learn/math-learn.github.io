@@ -4,12 +4,6 @@ title: Home
 images: "/assets/img"
 ---
 
-<center><p>
-    <a href="https://irishmathsoc.org/"><img width="150" src="{{ page.images }}/ims-2t.png" alt="Irish Mathematical Society logo"/></a>&nbsp;&nbsp;
-    <a href="https://www.researchireland.ie/"><img width="400" src="{{ page.images }}/logo_black.svg" alt="Research Ireland logo"/></a>
-</p></center>
-
-
 ## Workshop Details
 
 <div class="details-block">
@@ -100,11 +94,7 @@ images: "/assets/img"
 
   <div class="day-card">
     <div class="day-header">
-      <span class="day-name">Friday</span><center><p>
-    <a href="https://irishmathsoc.org/"><img width="150" src="{{ page.images }}/ims-2t.png" alt="Irish Mathematical Society logo"/></a>&nbsp;&nbsp;
-    <a href="https://www.researchireland.ie/"><img width="400" src="{{ page.images }}/logo_black.svg" alt="Research Ireland logo"/></a>
-</p></center>
-
+      <span class="day-name">Friday</span>
       <span class="day-date">5 June</span>
     </div>
     <ul class="event-list">
@@ -139,9 +129,24 @@ images: "/assets/img"
 
 ## Sponsors
 
-MathLearn is generously supported by 
-- [Irish Mathematical Society](https://irishmathsoc.org/),
-- [Taighde Éireann – Research Ireland](https://www.researchireland.ie/), grant number 22/FFP-P/11449.
+<div class="sponsor-block">
+  <p class="sponsor-intro">MathLearn is generously supported by</p>
+  <div class="sponsor-logos">
+    <div class="sponsor-item">
+      <div class="logo-wrap">
+        <a href="https://irishmathsoc.org/"><img src="{{ page.images }}/ims-2t.png" alt="Irish Mathematical Society logo" class="logo-ims"/></a>
+      </div>
+      <span class="sponsor-name">Irish Mathematical Society</span>
+    </div>
+    <div class="sponsor-item">
+      <div class="logo-wrap">
+        <a href="https://www.researchireland.ie/"><img src="{{ page.images }}/logo_black.svg" alt="Research Ireland logo" class="logo-ri"/></a>
+      </div>
+      <span class="sponsor-name">Taighde Éireann – Research Ireland</span>
+      <span class="sponsor-grant">Grant number 22/FFP-P/11449</span>
+    </div>
+  </div>
+</div>
 
 ## Organizers
 
