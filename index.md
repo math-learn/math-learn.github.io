@@ -10,7 +10,7 @@ images: "/assets/img"
   <p><strong>Dates:</strong> 2 – 5 June 2026</p>
   <p><strong>Location:</strong> <a href="https://maps.app.goo.gl/qK9RjKJ7adVG48M37">Áras de Brún 1020</a> (ADB-1020) &mdash; Number 17 on the <a href="https://www.universityofgalway.ie/media/buildingsoffice/files/mapsrebranded2023/University-of-Galway-Campus_A4-Map.pdf">University of Galway Map</a>.</p>
   <p><strong>JupyterHub Server:</strong> <a href="https://cloudjupyter.universityofgalway.ie/">Link to login</a>. Credentials sent to registered email.</p>
-  <p><strong>GitHub Repo:</strong> TBA</p>
+  <p><strong>GitHub Repo:</strong> <a href="https://github.com/math-learn/notebooks">Link to notebooks</a></p>
   <p><strong>Optional preparation:</strong></p>
   <ul class="prep-list">
     <li>Justin Johnson's NumPy tutorial (skipping the SciPy content): <a href="https://cs231n.github.io/python-numpy-tutorial/">Tutorial link</a>.</li>
