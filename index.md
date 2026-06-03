@@ -114,7 +114,7 @@ images: "/assets/img"
     <ul class="event-list">
       <li class="event-item event-lecture" style="height:72px">
         <span class="event-time">09:00 – 10:00</span>
-        <span class="event-title">Tobias Rossmann: Meet xNNs</span>
+        <span class="event-title">Tobias Rossmann: <a href="/notes/xnn.pdf">Meet xNNs</a></span>
       </li>
       <li class="event-item event-lecture" style="height:72px">
         <span class="event-time">10:00 – 11:00</span>
