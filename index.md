@@ -89,7 +89,7 @@ images: "/assets/img"
       </li>
       <li class="event-item event-lecture" style="height:108px">
         <span class="event-time">11:30 – 13:00</span>
-        <span class="event-title">Joshua Maglione: Introduction to attention and transformers</span>
+        <span class="event-title">Joshua Maglione: <a href="/notes/Transformers.pdf">Introduction to attention and transformers</a></span>
       </li>
       <li class="event-item event-lunch" style="height:72px">
         <span class="event-time">13:00 – 14:00</span>
@@ -126,7 +126,7 @@ images: "/assets/img"
       </li>
       <li class="event-item event-lecture" style="height:108px">
         <span class="event-time">11:30 – 13:00</span>
-        <span class="event-title">Joshua Maglione: Q, K, V, and Why</span>
+        <span class="event-title">Joshua Maglione: <a href="/notes/Transformers.pdf">Q, K, V, and Why</a></span>
       </li>
       <li class="event-item event-lunch" style="height:72px">
         <span class="event-time">13:00 – 14:00</span>
