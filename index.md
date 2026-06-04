@@ -132,12 +132,12 @@ images: "/assets/img"
         <span class="event-time">13:00 – 14:00</span>
         <span class="event-title">Lunch</span>
       </li>
-      <li class="event-item event-handson" style="height:216px">
-        <span class="event-time">14:00 – 17:30</span>
+      <li class="event-item event-handson" style="height:180px">
+        <span class="event-time">14:00 – 17:00</span>
         <span class="event-title">Code gig</span>
       </li>
       <li class="event-item event-break" style="height:36px">
-        <span class="event-time">17:30 – 18:00</span>
+        <span class="event-time">17:30 – 17:30</span>
         <span class="event-title">Debrief</span>
       </li>
     </ul>
