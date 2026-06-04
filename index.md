@@ -77,7 +77,7 @@ images: "/assets/img"
     <ul class="event-list">
       <li class="event-item event-lecture" style="height:72px">
         <span class="event-time">09:00 – 10:00</span>
-        <span class="event-title">Angela Carnevale: Deep Q-learning</span>
+        <span class="event-title">Angela Carnevale: <a href="/notes/DQN.pdf">Deep Q-learning</a></span>
       </li>
       <li class="event-item event-lecture" style="height:72px">
         <span class="event-time">10:00 – 11:00</span>
