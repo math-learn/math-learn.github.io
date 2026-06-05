@@ -4,6 +4,10 @@ title: Home
 images: "/assets/img"
 ---
 
+<div style="text-align: center; width: 100%;">
+  <img src="/assets/img/mathlearn26.jpg" alt="Math Learn 2026" style="width: 67%; max-width: 67%; display: block; margin: 0 auto;">
+</div>
+
 ## Workshop Details
 
 <div class="details-block">
